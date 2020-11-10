@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicCollection", "MusicCollection\MusicCollection.csproj", "{F7474501-36D1-468D-A9F3-86F507385610}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Format", "Format", "{27DB7C0D-33E8-41BC-8C1E-5E198C0604DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vynil", "Format\Vynil\Vynil.csproj", "{D86B5F05-B01E-4A60-A839-976D9CA81A68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,12 @@ Global
 		{F7474501-36D1-468D-A9F3-86F507385610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7474501-36D1-468D-A9F3-86F507385610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7474501-36D1-468D-A9F3-86F507385610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86B5F05-B01E-4A60-A839-976D9CA81A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86B5F05-B01E-4A60-A839-976D9CA81A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86B5F05-B01E-4A60-A839-976D9CA81A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86B5F05-B01E-4A60-A839-976D9CA81A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D86B5F05-B01E-4A60-A839-976D9CA81A68} = {27DB7C0D-33E8-41BC-8C1E-5E198C0604DE}
 	EndGlobalSection
 EndGlobal
