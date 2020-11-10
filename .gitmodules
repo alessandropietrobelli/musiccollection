@@ -1,0 +1,6 @@
+[submodule "Format/musiccollection-format-vynil"]
+	path = Format/musiccollection-format-vynil
+	url = git@github.com:alessandropietrobelli/musiccollection-format-vynil.git
+[submodule "Format/musiccollection-format-compactdisc"]
+	path = Format/musiccollection-format-compactdisc
+	url = git@github.com:alessandropietrobelli/musiccollection-format-compactdisc.git
