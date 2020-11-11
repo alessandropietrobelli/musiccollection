@@ -15,7 +15,7 @@ namespace MusicCollection
         {
             CreateHostBuilder(args).Build().Run();
             
-            //MUSIC COLLECTION PROGRAM CHANGES
+            //MUSIC COLLECTION PROGRAM CHANGES DEV
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
