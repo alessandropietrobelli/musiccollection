@@ -4,11 +4,43 @@
     <projectFile>MusicCollection/MusicCollection.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be7a96e9-ee17-4ccc-88ae-55ecc6e68d41" name="Default Changelist" comment="" />
+    <list default="true" id="be7a96e9-ee17-4ccc-88ae-55ecc6e68d41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Format/musiccollection-format-vynil" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MusicCollection/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MusicCollection/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/CompactDisc.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/CompactDisc.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/CompactDisc.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/CompactDisc.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/Debug/netcoreapp3.1/CompactDisc.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/Debug/netcoreapp3.1/CompactDisc.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/Debug/netcoreapp3.1/CompactDisc.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/CompactDisc/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/Vynil.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/Debug/netcoreapp3.1/Vynil.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/Debug/netcoreapp3.1/Vynil.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/Debug/netcoreapp3.1/Vynil.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/Vynil.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/Vynil.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/Vynil.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Format/Vynil/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusicCollection.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MusicCollection.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,13 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1605047242096</updated>
       <workItem from="1605047245636" duration="638000" />
+      <workItem from="1605052141791" duration="314000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
