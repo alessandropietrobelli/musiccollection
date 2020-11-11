@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be7a96e9-ee17-4ccc-88ae-55ecc6e68d41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MusicCollection/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MusicCollection/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MusicCollection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MusicCollection/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be7a96e9-ee17-4ccc-88ae-55ecc6e68d41" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +40,8 @@
         <option value="$PROJECT_DIR$/Format/CompactDisc/Class1.cs" />
         <option value="$PROJECT_DIR$/MusicCollection/Program.cs" />
         <option value="$PROJECT_DIR$/MusicCollection/.gitignore" />
-        <option value="$PROJECT_DIR$/Format/musiccollection-format-compactdisc/Class1.cs" />
         <option value="$PROJECT_DIR$/MusicCollection/Program.cs" />
+        <option value="$PROJECT_DIR$/Format/musiccollection-format-compactdisc/Class1.cs" />
       </list>
     </option>
   </component>
@@ -104,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605047242096</updated>
       <workItem from="1605047245636" duration="638000" />
-      <workItem from="1605052141791" duration="4897000" />
+      <workItem from="1605052141791" duration="5172000" />
     </task>
     <servers />
   </component>
